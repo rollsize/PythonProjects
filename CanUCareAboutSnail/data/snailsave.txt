@@ -1,0 +1,6 @@
+logicCoins = 105
+years = 2
+hungry = 8
+is_ill = False
+is_sick = False
+is_dirty = False
